@@ -1,0 +1,21 @@
+.Color h1{
+    color:red; 
+    text-align: center;
+    font-family: "Agbalumo", "Cambria", "Cochin", "Gerogia", "Time", "Times New Roman";
+    
+    
+}
+
+.Color h3{
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    
+}
+.Color p{
+    color: white;
+    text-align: center;
+    font-family:Kufi, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+}

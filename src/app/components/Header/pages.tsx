@@ -16,7 +16,7 @@ const Header = () => {
           Murk Kitab Ghar Karachi
         </h1>
         <nav>
-          <Link href="http://localhost:3000/">
+          <Link href="">
             <strong> Home </strong>{" "}
           </Link>
 
